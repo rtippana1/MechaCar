@@ -14,7 +14,7 @@ Statistics and R
 First the Suspicion Coil csv was converted into a dataframe and then created two subset tables with it: Total Summary and Lot Summary. The Total Summary table is looking at PSI statistics across all lots while the Lot Summary shows statistcs of each lot (seen below). As seen, Lot 1 and 2, are very similar while Lot 3 has a smaller mean with a bigger variance and standar deviation (SD).
 
   ![Total Summary](https://github.com/rtippana1/MechaCar/blob/main/Total Summary.png)
-  ![Lot Summary](https://github.com/rtippana1/MechaCar/blob/main/Lot Summary.png)
+  ![Lot Summary](https://github.com/rtippana1/MechaCar/blob/main/Lot%20Summary.png)
 
 
 ## T-Tests on Suspension Coils
