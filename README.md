@@ -18,7 +18,7 @@ First the Suspicion Coil csv was converted into a dataframe and then created two
 
 
 ## T-Tests on Suspension Coils
-The P-values from single T-Test on PSI values (compared to the standard of 1500 PSI) for suspicion coils were:
+The P-values from single T-Test on PSI values (compared to the standard of 1500 PSI) for suspicion coils were:-
 
 All PSI= 0.06028
 Lot 1 PSI= 1
